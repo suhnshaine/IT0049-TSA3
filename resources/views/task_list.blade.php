@@ -24,7 +24,6 @@
             <tr>
                 <th>Title</th>
                 <th>Status</th>
-                <th>Date Created</th>
                 <th>Due Date</th>
             </tr>
 
